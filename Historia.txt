@@ -2,6 +2,6 @@ Esta es la historia de Juan Andres.
 
 Nacio en Ecuador.
 
-Tienes 37 años esta casado con una mujer hermosa y tiene una bebe hermosa.
+Tiene 37 años esta casado con una mujer hermosa y tiene una bebe hermosa.
 
 Esta aprendiendo GIT y GITHUB.
