@@ -5,3 +5,5 @@ Nacio en Ecuador, Ciudad de Quito.
 Tiene 37 años esta casado con una mujer hermosa y tiene una bebe hermosa de un año.
 
 Esta aprendiendo GIT y GITHUB.
+
+En camara parece alto pero en verdad no es tan alto.
